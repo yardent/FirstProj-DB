@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\FirstProj-DB\FirstProj-DB\bin\Debug\FirstProj-DB.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\FirstProj-DB\FirstProj-DB\bin\Debug\FirstProj-DB.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\FirstProj-DB\FirstProj-DB\obj\x86\Debug\FirstProj-DB.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\FirstProj-DB\FirstProj-DB\obj\x86\Debug\FirstProj-DB.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\FirstProj-DB\FirstProj-DB\bin\Debug\FirstProj-DB.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\FirstProj-DB\FirstProj-DB\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\FirstProj-DB\FirstProj-DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\FirstProj-DB\FirstProj-DB\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\FirstProj-DB\FirstProj-DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\FirstProj-DB\FirstProj-DB\obj\x86\Debug\FirstProj-DB.csprojResolveAssemblyReference.cache
