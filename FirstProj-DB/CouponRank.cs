@@ -9,7 +9,7 @@ namespace FirstProj_DB
     {
         Dictionary<string, Dictionary<string, int>> couponRanks = new Dictionary<string,Dictionary<string,int>>();
         Dictionary<string, Dictionary<string, int>> customerRanks = new Dictionary<string,Dictionary<string,int>>();
-      //lala
+      
         public Dictionary<string, int> getCouponRanks(string couponId)
         {
             if (couponRanks.ContainsKey(couponId))
