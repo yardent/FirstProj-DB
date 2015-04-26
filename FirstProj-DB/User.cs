@@ -7,14 +7,14 @@ namespace FirstProj_DB
 {
     public abstract class User
     {
-        string userName { get; set; }
-        string firstName { get; set; }
-        string lastName { get; set; }
-        string email { get; set; }
-        string phone { get; set; }
-        string password { get; set; }
-        DateTime birthday { get; set; }
-        int age { get; set; }
-        List<User_Preference> preferences {get; set;}
-    }
+        public string userName { get; set; }
+        public string firstName { get; set; }
+        public string lastName { get; set; }
+        public string email { get; set; }
+        public string phone { get; set; }
+        public string password { get; set; }
+        public DateTime birthday { get; set; }
+        public int age { get; set; }
+        public List<User_Preference> preferences {get; set;}
+    }  
 }

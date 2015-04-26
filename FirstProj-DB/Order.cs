@@ -7,11 +7,13 @@ namespace FirstProj_DB
 {
     public class Order
     {
-        string serialKey { get; set; }
-        DateTime date { get; set; }
-        int amount { get; set; }
-        string paypal_userName { get; set; }
-        bool hasBeenUsed { get; set; }
-        Coupon coupon { get; set; }
-    }
-}
+        public string serialKey { get; set; }
+        public DateTime date { get; set; }
+        public int amount { get; set; }
+        public string paypal_userName { get; set; }
+        public bool hasBeenUsed { get; set; }
+        public Coupon coupon { get; set; }
+    }    
+}        
+         
+         

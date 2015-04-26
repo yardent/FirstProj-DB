@@ -7,8 +7,13 @@ namespace FirstProj_DB
 {
     public class Customer : User
     {
-        List<Notification> inbox { get; set; }
-        List<Order> orders { get; set; }
-        List<Coupon> sharedCoupons { get; set; }
-    }
-}
+        public List<Notification> inbox { get; set; }
+        public List<Order> orders { get; set; }
+        public List<Coupon> sharedCoupons { get; set; }
+    }   
+}       
+        
+        
+        
+        
+        

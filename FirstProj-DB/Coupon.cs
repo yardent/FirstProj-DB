@@ -18,15 +18,15 @@ namespace FirstProj_DB
     }
     public class Coupon
     {
-        string id { get; set; }
-        string name { get; set; }
-        string description { get; set; }
-        Category category { get; set; }
-        int originalPrice { get; set; }
-        double averageRank { get; set; }
-        DateTime lastDate { get; set; }
-        List<Order> orders { get; set; }
-        List<Notification> notifications { get; set; }
-        Business business { get; set; }
+        public string id { get; set; }
+        public string name { get; set; }
+        public string description { get; set; }
+        public Category category { get; set; }
+        public int originalPrice { get; set; }
+        public double averageRank { get; set; }
+        public DateTime lastDate { get; set; }
+        public List<Order> orders { get; set; }
+        public List<Notification> notifications { get; set; }
+        public Business business { get; set; }
     }
 }

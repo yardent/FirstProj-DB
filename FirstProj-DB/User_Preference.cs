@@ -7,7 +7,7 @@ namespace FirstProj_DB
 {
     public class User_Preference
     {
-        string subject { get; set; }
-        string choice { get; set; }
+        public string subject { get; set; }
+        public string choice { get; set; }
     }
 }

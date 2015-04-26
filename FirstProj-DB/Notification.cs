@@ -7,11 +7,13 @@ namespace FirstProj_DB
 {
     public class Notification
     {
-        string cause { get; set; }
-        string description { get; set; }
-        bool hasBeenRead { get; set; }
-        DateTime date { get; set; }
-        DateTime time { get; set; }
-        Coupon coupon { get; set; }
-    }
-}
+        public string cause { get; set; }
+        public string description { get; set; }
+        public bool hasBeenRead { get; set; }
+        public DateTime date { get; set; }
+        public DateTime time { get; set; }
+        public Coupon coupon { get; set; }
+    }   
+}       
+        
+        
