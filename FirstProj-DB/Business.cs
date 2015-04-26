@@ -11,9 +11,9 @@ namespace FirstProj_DB
         public  string city { get; set; }
         public  string address { get; set; }
         public  string description { get; set; }
-        public  Category category { get; set; }
-        public  List<Coupon> coupons { get; set; }
-        public  Business_manager manager { get; set; }
+        public virtual Category category { get; set; }
+        public virtual List<Coupon> coupons { get; set; }
+        public virtual Business_manager manager { get; set; }
        
     }
 }

@@ -21,12 +21,12 @@ namespace FirstProj_DB
         public string id { get; set; }
         public string name { get; set; }
         public string description { get; set; }
-        public Category category { get; set; }
+        public virtual Category category { get; set; }
         public int originalPrice { get; set; }
         public double averageRank { get; set; }
         public DateTime lastDate { get; set; }
-        public List<Order> orders { get; set; }
-        public List<Notification> notifications { get; set; }
-        public Business business { get; set; }
+        public virtual List<Order> orders { get; set; }
+        public virtual List<Notification> notifications { get; set; }
+        public virtual Business business { get; set; }
     }
 }

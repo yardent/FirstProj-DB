@@ -7,6 +7,6 @@ namespace FirstProj_DB
 {
     public class Business_manager: User
     {
-        public List<Business> ownedBusinesses { get; set; }
+        public virtual List<Business> ownedBusinesses { get; set; }
     }
 }

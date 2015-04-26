@@ -12,7 +12,7 @@ namespace FirstProj_DB
         public bool hasBeenRead { get; set; }
         public DateTime date { get; set; }
         public DateTime time { get; set; }
-        public Coupon coupon { get; set; }
+        public virtual Coupon coupon { get; set; }
     }   
 }       
         

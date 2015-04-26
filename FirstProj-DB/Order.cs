@@ -12,7 +12,7 @@ namespace FirstProj_DB
         public int amount { get; set; }
         public string paypal_userName { get; set; }
         public bool hasBeenUsed { get; set; }
-        public Coupon coupon { get; set; }
+        public virtual Coupon coupon { get; set; }
     }    
 }        
          

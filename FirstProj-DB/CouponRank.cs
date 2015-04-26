@@ -7,8 +7,8 @@ namespace FirstProj_DB
 {
     public class CouponRank
     {
-        Dictionary<string, Dictionary<string, int>> couponRanks = new Dictionary<string,Dictionary<string,int>>();
-        Dictionary<string, Dictionary<string, int>> customerRanks = new Dictionary<string,Dictionary<string,int>>();
+        public Dictionary<string, Dictionary<string, int>> couponRanks = new Dictionary<string,Dictionary<string,int>>();
+        public Dictionary<string, Dictionary<string, int>> customerRanks = new Dictionary<string,Dictionary<string,int>>();
       
         public Dictionary<string, int> getCouponRanks(string couponId)
         {

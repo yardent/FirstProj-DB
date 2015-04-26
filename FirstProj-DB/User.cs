@@ -15,6 +15,6 @@ namespace FirstProj_DB
         public string password { get; set; }
         public DateTime birthday { get; set; }
         public int age { get; set; }
-        public List<User_Preference> preferences {get; set;}
+        public virtual List<User_Preference> preferences {get; set;}
     }  
 }

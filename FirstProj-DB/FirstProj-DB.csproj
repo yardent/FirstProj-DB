@@ -60,6 +60,7 @@
     <Compile Include="Coupon.cs" />
     <Compile Include="CouponRank.cs" />
     <Compile Include="Customer.cs" />
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Notification.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="Program.cs" />
