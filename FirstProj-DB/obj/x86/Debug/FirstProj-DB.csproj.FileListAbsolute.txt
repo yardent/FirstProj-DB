@@ -21,3 +21,6 @@ D:\Documents\project\FirstProj-DB\FirstProj-DB\bin\Debug\EntityFramework.SqlServ
 D:\Documents\project\FirstProj-DB\FirstProj-DB\bin\Debug\EntityFramework.xml
 D:\Documents\project\FirstProj-DB\FirstProj-DB\bin\Debug\EntityFramework.SqlServer.xml
 D:\Documents\project\FirstProj-DB\FirstProj-DB\obj\x86\Debug\FirstProj-DB.csprojResolveAssemblyReference.cache
+N:\לימודים\סמסטר ו'\ניתוח ועיצוב מונחה עצמים\עבודה 1\project\FirstProj-DB\bin\Debug\FirstProj-DB.exe.config
+N:\לימודים\סמסטר ו'\ניתוח ועיצוב מונחה עצמים\עבודה 1\project\FirstProj-DB\obj\x86\Debug\FirstProj-DB.exe
+N:\לימודים\סמסטר ו'\ניתוח ועיצוב מונחה עצמים\עבודה 1\project\FirstProj-DB\obj\x86\Debug\FirstProj-DB.pdb
